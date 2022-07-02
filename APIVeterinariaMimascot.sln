@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIVeterinariaMimascot", "APIVeterinariaMimascot\APIVeterinariaMimascot.csproj", "{BFAB69BD-C653-4298-BFBC-2B01E3E4FA6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAB69BD-C653-4298-BFBC-2B01E3E4FA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAB69BD-C653-4298-BFBC-2B01E3E4FA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAB69BD-C653-4298-BFBC-2B01E3E4FA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAB69BD-C653-4298-BFBC-2B01E3E4FA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF6DF4E6-713E-422C-BFC3-D9A1C46113F0}
+	EndGlobalSection
+EndGlobal
